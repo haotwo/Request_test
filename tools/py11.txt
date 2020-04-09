@@ -1,0 +1,8 @@
+2020-03-24 22:11:40,874-ERROR-my_log.py-python11-日志信息：stone:今天有点萌萌滴
+2020-03-24 22:12:19,266-ERROR-my_log.py-python11-日志信息：stone:今天有点萌萌滴
+2020-03-24 22:12:19,267-ERROR-my_log.py-python11-日志信息：MIRACLE:今天有点萌萌滴
+2020-03-24 22:12:19,267-ERROR-my_log.py-python11-日志信息：MIRACLE:今天有点萌萌滴
+2020-03-24 22:15:06,323-ERROR-my_log.py-python11-日志信息：stone:今天有点萌萌滴
+2020-03-24 22:15:06,324-ERROR-my_log.py-python11-日志信息：MIRACLE:今天有点萌萌滴
+2020-03-24 22:21:20,127-DEBUG-my_log.py-python11-日志信息：可不可以不这样？？
+2020-03-24 22:21:20,128-INFO-my_log.py-python11-日志信息：可行吗？
